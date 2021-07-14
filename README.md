@@ -1,6 +1,9 @@
 <h1 align="center"> 
   dev-finance
 </h1>
+<p align="center">
+<img src="./github-img/dev-finace.png" alt="Imagem do site dev finance">
+</p>
 
 
 ## 🚀 Tecnologias
