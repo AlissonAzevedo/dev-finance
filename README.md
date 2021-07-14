@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  dev-finance
+  dev-finance$
 </h1>
 <p align="center">
 <img alt="Imagem do site dev finance" src="./github-img/dev-finance.PNG"  width="100%">
