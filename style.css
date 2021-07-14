@@ -134,6 +134,7 @@ header{
 .card p{
     font-size: 1.8rem;
     line-height: 3rem;
+    white-space: nowrap;
     margin-top: 1rem;
 }
 .card.total{
