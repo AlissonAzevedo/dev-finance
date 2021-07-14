@@ -2,7 +2,7 @@
   dev-finance
 </h1>
 <p align="center">
-<img src="./assets/github-img/dev-finace.png" alt="Imagem do site dev finance">
+<img src="./github-img/dev-finace.png" alt="Imagem do site dev finance">
 </p>
 
 
