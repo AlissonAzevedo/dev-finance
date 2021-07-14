@@ -1,5 +1,5 @@
 # dev-finance
-Construção de um mini sistema financeiro com HTML, CSS e JS
+
 
 ##🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
